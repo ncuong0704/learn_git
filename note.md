@@ -11,3 +11,4 @@ Repository (Repo) là cả thư mục learn-git
 - git reset bỏ tất cả các file đã chọn để lấy lại
 - git commit -m 'initial commit' chính thức lưu file
 - git log giúp coi lại những thời điểm đã lưu
+- git log --online giúp coi lại thời điểm đã lưu nhưng gọn hơn
