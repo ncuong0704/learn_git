@@ -38,5 +38,6 @@ Remote là những dữ liệu từ server
 
 - sau khi merge code từ các branch con vào nhánh master thì mình gõ git pull để lấy code từ github về lại local
 
-
 - tạo file '.gitignore' trong file này mình để các tên file mà mình k muốn git quan tâm và theo dõi chúng.
+
+- khi mình muốn chỉnh sửa code của 1 dự án của 1 tác giả nào đó. Mình vào github bấm vào "Fork" và chỉnh sửa code. Cuối cùng là tạo "Pull requests" và đợi tác giả accept và merge chúng.
