@@ -2,6 +2,7 @@
 
 Repository (Repo) là cả thư mục learn-git
 Branch
+Conflict
 
 # Commands
 
