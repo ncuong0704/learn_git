@@ -3,6 +3,8 @@
 Repository (Repo) là cả thư mục learn-git
 Branch
 Conflict là khi mình lấy code mới về thì nó sẽ so sánh code hiện tại và code mới để xem có gì thay đổi giữa code hiện tại và code lấy về.
+Local là những dữ liệu từ máy tính
+Remote là những dữ liệu từ server
 
 # Commands
 
