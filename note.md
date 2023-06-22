@@ -27,3 +27,6 @@ Remote là những dữ liệu từ server
 - git remote add {đặt tên cho link github} {link remote của github}
 - git push {tên đã gán cho link github} {branch name} đưa code lên github
 
+- git clone {link của github} giúp clone 1 repo về local
+- sau đó mình có thể push code lên bằng git push mà k cần link và nhánh
+
