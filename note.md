@@ -23,3 +23,7 @@ Remote là những dữ liệu từ server
 - git merge {branch name} giúp lấy code của các nhánh phụ vào nhánh chính (vd: nhánh master)
 - git branch -d {branch name} giúp xoá branch
 
+
+- git remote add {đặt tên cho link github} {link remote của github}
+- git push {tên đã gán cho link github} {branch name} đưa code lên github
+
