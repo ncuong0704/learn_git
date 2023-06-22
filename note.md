@@ -30,3 +30,7 @@ Remote là những dữ liệu từ server
 - git clone {link của github} giúp clone 1 repo về local
 - sau đó mình có thể push code lên bằng git push mà k cần link và nhánh
 
+- git push -u origin {branch name} giúp push 1 branch lên trên github
+- sau đó mình dùng git push để đẩy code lên
+
+
