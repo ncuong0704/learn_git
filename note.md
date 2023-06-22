@@ -14,3 +14,5 @@ Branch
 - git log giúp coi lại những thời điểm đã lưu
 - git log --online giúp coi lại thời điểm đã lưu nhưng gọn hơn
 - git checkout {brand name} giúp quay lại thời điểm đã lưu bằng brand name của thời điểm đó
+- git branch giúp xem các nhánh hiện tại của dự án
+- git checkout -b {branch name} giúp tạo nhánh mới cho dự án
