@@ -37,3 +37,6 @@ Remote là những dữ liệu từ server
 - b2: git checkout -b {branch name} origin/{branch name}
 
 - sau khi merge code từ các branch con vào nhánh master thì mình gõ git pull để lấy code từ github về lại local
+
+
+- tạo file '.gitignore' trong file này mình để các tên file mà mình k muốn git quan tâm và theo dõi chúng.
