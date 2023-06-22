@@ -2,7 +2,7 @@
 
 Repository (Repo) là cả thư mục learn-git
 Branch
-Conflict
+Conflict là khi mình lấy code mới về thì nó sẽ so sánh code hiện tại và code mới để xem có gì thay đổi giữa code hiện tại và code lấy về.
 
 # Commands
 
@@ -12,6 +12,7 @@ Conflict
 - git add . lấy tất cả file ra chuẩn bị lưu
 - git reset bỏ tất cả các file đã chọn để lấy lại
 - git commit -m 'initial commit' chính thức lưu file
+- git commit không có ghi chú giúp mình lưu lại khi mình conflict code đã xong.
 - git log giúp coi lại những thời điểm đã lưu
 - git log --online giúp coi lại thời điểm đã lưu nhưng gọn hơn
 - git checkout {brand name} giúp quay lại thời điểm đã lưu bằng brand name của thời điểm đó
@@ -19,3 +20,4 @@ Conflict
 - git checkout -b {branch name} giúp tạo nhánh mới cho dự án
 - git merge {branch name} giúp lấy code của các nhánh phụ vào nhánh chính (vd: nhánh master)
 - git branch -d {branch name} giúp xoá branch
+
