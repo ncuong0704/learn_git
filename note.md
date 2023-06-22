@@ -34,3 +34,7 @@ Remote là những dữ liệu từ server
 - sau đó mình dùng git push để đẩy code lên
 
 
+- Cách get 1 branch mới từ github về local
+- b1: git fetch origin
+- b2: git checkout -b {branch name} origin/{branch name}
+
