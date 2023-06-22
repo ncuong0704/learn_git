@@ -1,6 +1,7 @@
 # Terms
 
 Repository (Repo) là cả thư mục learn-git
+Branch
 
 # Commands
 
@@ -12,3 +13,4 @@ Repository (Repo) là cả thư mục learn-git
 - git commit -m 'initial commit' chính thức lưu file
 - git log giúp coi lại những thời điểm đã lưu
 - git log --online giúp coi lại thời điểm đã lưu nhưng gọn hơn
+- git checkout {brand name} giúp quay lại thời điểm đã lưu bằng brand name của thời điểm đó
