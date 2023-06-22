@@ -16,3 +16,5 @@ Branch
 - git checkout {brand name} giúp quay lại thời điểm đã lưu bằng brand name của thời điểm đó
 - git branch giúp xem các nhánh hiện tại của dự án
 - git checkout -b {branch name} giúp tạo nhánh mới cho dự án
+- git merge {branch name} giúp lấy code của các nhánh phụ vào nhánh chính (vd: nhánh master)
+- git branch -d {branch name} giúp xoá branch
